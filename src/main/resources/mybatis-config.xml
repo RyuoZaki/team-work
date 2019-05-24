@@ -17,14 +17,7 @@
     <!--类型别名-->
     <typeAliases>
         <!--按需添加-->
-        <package name="com.cheer.projectmyself.classification.model"></package>
-        <package name="com.cheer.projectmyself.comment.model"></package>
-        <package name="com.cheer.projectmyself.commodity.model"></package>
-        <package name="com.cheer.projectmyself.customer.model"></package>
-        <package name="com.cheer.projectmyself.order.model"></package>
-        <package name="com.cheer.projectmyself.pay.model"></package>
-        <package name="com.cheer.projectmyself.search.model"></package>
-        <package name="com.cheer.projectmyself.shopping.model"></package>
+        <package name="com.cheer.teamwork"></package>
     </typeAliases>
 
 </configuration>
