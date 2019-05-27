@@ -22,7 +22,6 @@ public class UserController {
     @GetMapping("update")
     public void update(@RequestBody User user){
         userService.update(user);
-
     }
 
     
