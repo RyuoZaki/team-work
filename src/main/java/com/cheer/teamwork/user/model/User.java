@@ -6,14 +6,14 @@ public class User {
     private String id;
     private String userName;
     private String password;
-    private String address;
+    private String money;
 
-    public String getAddress() {
-        return address;
+    public String getMoney() {
+        return money;
     }
 
-    public void setAddress(String address) {
-        this.address = address;
+    public void setMoney(String money) {
+        this.money = money;
     }
 
     public String getId() {
