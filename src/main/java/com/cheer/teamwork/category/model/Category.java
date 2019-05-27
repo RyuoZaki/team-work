@@ -1,11 +1,17 @@
 package com.cheer.teamwork.category.model;
 
+
 import java.util.StringJoiner;
 
 
 public class Category {
     private Integer categoryNo;
     private String categoryName;
+
+    public Category(Integer categoryNo, String categoryName) {
+        this.categoryNo = categoryNo;
+        this.categoryName = categoryName;
+    }
 
     public Integer getCategoryNo() {
         return categoryNo;
