@@ -26,9 +26,4 @@
     WHERE
         categoryno = #{categoryNo}
     </update>
-
-
-
-
-
 </mapper>
