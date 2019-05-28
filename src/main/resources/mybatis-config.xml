@@ -17,7 +17,7 @@
     <!--类型别名-->
     <typeAliases>
         <!--按需添加-->
-        <package name="com.cheer.teamwork.shopping.model"></package>
+        <package name="com.cheer.teamwork.*.model"></package>
     </typeAliases>
 
 </configuration>
